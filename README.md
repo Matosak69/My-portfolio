@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matosak</h1>
-<h3 align="center">A passionate cyberspecialist</h3>
+<h3 align="center">A begginer cyberspecialist</h3>
 
 - 📫 How to reach me **matosakbusiness@gmail.com**
 
